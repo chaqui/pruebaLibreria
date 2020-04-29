@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebaLibreria"
+    }
+  },
+  "defaultProject": "pruebaLibreria",
+  "cli": {
+    "analytics": "234b0971-b264-4cba-aada-c79272c60e06"
+  }
 }
